@@ -2,17 +2,19 @@
 
 ## Project Overview:
 
-The Purpose of this project is to build a webpage and dynamic table are working as intended, with more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time, such as the event date, city, state, country, and shape, the source of data [](). To do this we use the following technologies:
-- Chrome De vTools
-- JavaScript:
-- HTML
-- CSS
-- VS Code 
-- BootStrap 4.0.0.
+The Purpose of this project is to build a webpage and dynamic table are working as intended, with more in-depth analysis of **UFO** sightings by allowing users to filter for multiple criteria at the same time, such as the event date, city, state, country, and shape, the source of data [GitHub Page](https://github.com/intisarkhalil/UFOs.git). To do this we use the following technologies:
+```
+Chrome De vTools
+JavaScript:
+HTML
+CSS
+VS Code 
+BootStrap 4.0.0
+```
 
 ## Results
 
-Using JavaScript and HTML, we build the webpage and create the dynamic table that contains all the information needed. In addition, we use multiple criteria to filters the table, the event of date, city, state, country, and shape. Filter UFO sightings on multiple criteria:
+Using **JavaScript** and **HTML**, we build the webpage and create the dynamic table that contains all the information needed. In addition, we use multiple criteria to filters the table, the event of date, city, state, country, and shape. Filter UFO sightings on multiple criteria:
 This task is done through the following steps:
 - There are five list elements for filtering in the index.html file.
 
@@ -30,7 +32,7 @@ This task is done through the following steps:
 
 ![image](https://user-images.githubusercontent.com/62036983/144352059-ae1ca2bd-90e8-4eaf-829f-3a17f2419ed3.png)
 
-- The webpage filters the table correctly based on user.
+- The webpage filters the table correctly based on user [UFOs](file:///C:/Users/DELL/Desktop/Class%20Folder/UFOs/index.html).
 
 ![image](https://user-images.githubusercontent.com/62036983/144352109-646ffb60-7969-429f-8877-ea7ec4ed5bfc.png)
 
