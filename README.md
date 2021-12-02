@@ -32,7 +32,7 @@ This task is done through the following steps:
 
 ![image](https://user-images.githubusercontent.com/62036983/144352059-ae1ca2bd-90e8-4eaf-829f-3a17f2419ed3.png)
 
-- The webpage filters the table correctly based on user [UFOs](file:///C:/Users/DELL/Desktop/Class%20Folder/UFOs/index.html).
+- The webpage filters the table correctly based on user.
 
 ![image](https://user-images.githubusercontent.com/62036983/144352109-646ffb60-7969-429f-8877-ea7ec4ed5bfc.png)
 
